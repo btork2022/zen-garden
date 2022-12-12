@@ -1,2 +1,2 @@
 # zen-garden
-Day 2 bonus actitivity
+Applying changes to CSS
